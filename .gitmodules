@@ -1,0 +1,3 @@
+[submodule "etcd/etcd"]
+	path = etcd/etcd
+	url = https://github.com/tachunwu/research.git
